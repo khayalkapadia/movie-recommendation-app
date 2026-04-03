@@ -1,0 +1,18 @@
+Metadata-Version: 2.4
+Name: src
+Version: 0.0.1
+Summary: A small example package for movie recommender system
+Author: KAPADIA KHAYAL
+Author-email: khayal.kapadia9@gmail.com
+Requires-Python: >=3.10.19
+Description-Content-Type: text/markdown
+Requires-Dist: streamlit
+Dynamic: author
+Dynamic: author-email
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
+
+Movie Recommender System
